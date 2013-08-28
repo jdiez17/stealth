@@ -19,3 +19,8 @@ No. This is a personal research project whose primary focus is technological amu
 3. Is it easily detectable? 
 
 At this point in time, it's trivial to detect `stealth`'s presence. This is something that I intend to change, and it should not be easy to detect the module even as root. (Defending against another kernel module is not within the scope of this project)
+
+Demo
+====
+
+Here is a short [demo](http://showterm.io/0d7897816b2372a5043d3) of what `stealth` can do.
