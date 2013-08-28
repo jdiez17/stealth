@@ -1,0 +1,7 @@
+#ifndef STEALTH_CONFIG_H
+#define STEALTH_CONFIG_H
+
+#define HIDDEN_PROCESSES 100
+#define PROCESS_LENGTH   10
+
+#endif 
