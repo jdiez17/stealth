@@ -1,7 +1,7 @@
 stealth
 =======
 
-`stealth` is a [Loadable Kernel Module](http://en.wikipedia.org/wiki/Loadable_kernel_module) targetted at the Linux Kernel, versions 3.0 and up. Its goal is to hide processes, amongst other stealthy things. It comes with a companion `libstealth` to which you can link and enables a program to talk to `stealth` programatically.
+`stealth` is a [Loadable Kernel Module](http://en.wikipedia.org/wiki/Loadable_kernel_module) targetted at the Linux Kernel, versions 3.0 and up. Its goal is to hide processes, amongst other stealthy things. It comes with a companion `libstealth` to which you can link and enables a program to talk to `stealth` through an API.
 
 Note: `libstealth` is not done yet.
 
